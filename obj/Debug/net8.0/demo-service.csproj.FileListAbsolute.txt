@@ -49,3 +49,4 @@
 /home/manoj/dev/dotnet/demo-service/obj/Debug/net8.0/demo-service.pdb
 /home/manoj/dev/dotnet/demo-service/obj/Debug/net8.0/demo-service.genruntimeconfig.cache
 /home/manoj/dev/dotnet/demo-service/obj/Debug/net8.0/ref/demo-service.dll
+/home/manoj/dev/dotnet/demo-service/obj/Debug/net8.0/demo-service.sourcelink.json
